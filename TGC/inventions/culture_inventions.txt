@@ -1983,7 +1983,7 @@ anticlericalism = {
 		}
 	}
 	core_pop_consciousness_modifier = 0.03
-	effect = { plurality = 0.02 }
+	effect = { plurality = 0.03 }
 }
 
 aristocracy = {
@@ -2181,7 +2181,7 @@ establishment = {
 	}
 	social_reform_desire = -0.05
 	effect = {
-	plurality = -0.04
+	plurality = -0.03
 	}
 }
 
@@ -2210,7 +2210,7 @@ hierarchical_order = {
 	core_pop_militancy_modifier = -0.01
 	core_pop_consciousness_modifier = 0.01
 	effect = {
-		plurality = -0.04
+		plurality = -0.03
 	}
 }
 
@@ -2241,7 +2241,7 @@ meritocracy = {
 			nationalvalue = nv_equality
 		}
 	}
-	effect = { plurality = 0.02 }
+	effect = { plurality = 0.05 }
 	political_reform_desire = 0.05
 	social_reform_desire = 0.05
 }
@@ -2314,7 +2314,7 @@ paternalism = {
 	}
 	org_regain = 0.05
 	effect = {
-		plurality = -0.04
+		plurality = -0.03
 		}
 }
 
@@ -2346,7 +2346,7 @@ populism = {
 	}
 	social_reform_desire = 0.05
 	effect = {
-		plurality = -0.02
+		plurality = -0.01
 	}
 }
 
