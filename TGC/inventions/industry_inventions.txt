@@ -1620,10 +1620,10 @@ trinitrotoluene = {
     }
     #news = no
     chance = {
-        base = 6
+        base = 5
 				modifier = {
-						factor = -6
-						NOT = { dynamite = 1 }
+						factor = -5
+						not = { invention = dynamite }
 				}
     }
     effect = {
